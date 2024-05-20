@@ -25,3 +25,14 @@ body {
     height: 50px;
     background-color: #3498db;
 }
+
+#fallingObject {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 30px;
+    height: 30px;
+    background-color: #e74c3c;
+}
+
